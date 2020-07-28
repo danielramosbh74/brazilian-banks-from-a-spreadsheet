@@ -28,7 +28,7 @@ I'd lose my focus on make a simple but useful node module if I've installed node
 
 ## Install
 
-https://www.npmjs.com/package/brazilian-banks-api-node-module-mvp
+npm -i Brazilian-banks-API
 
 ## Run
 

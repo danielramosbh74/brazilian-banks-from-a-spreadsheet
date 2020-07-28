@@ -1,5 +1,5 @@
 {
-  "name": "brazilian-banks-API",
+  "name": "Brazilian-banks-API",
   "version": "1.0.2",
   "description": "A public Google Spreadsheet generates a JSON response with Brazilian Banks",
   "main": "index.js",
@@ -14,6 +14,14 @@
   "license": "MIT",
   "dependencies": {
     "drive-db": "^6.0.0"
-  }
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielramosbh74/Brazilian-banks-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielramosbh74/Brazilian-banks-API/issues"
+  },
+  "homepage": "https://github.com/danielramosbh74/Brazilian-banks-API#readme"
 }
