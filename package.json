@@ -24,4 +24,5 @@
     "url": "https://github.com/danielramosbh74/Brazilian-banks-API/issues"
   },
   "homepage": "https://github.com/danielramosbh74/Brazilian-banks-API#readme"
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
