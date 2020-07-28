@@ -1,6 +1,6 @@
 {
-  "name": "brazilian-banks-api-node-module-mvp",
-  "version": "1.0.1",
+  "name": "brazilian-banks-API",
+  "version": "1.0.2",
   "description": "A public Google Spreadsheet generates a JSON response with Brazilian Banks",
   "main": "index.js",
   "scripts": {
