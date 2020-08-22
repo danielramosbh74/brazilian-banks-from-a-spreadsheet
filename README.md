@@ -9,8 +9,8 @@ The goal of this code (maybe an API) is a JSON response similiar to this:
   "number_code": "001",
   "short_name": "BCO DO BRASIL S.A."
 }
-
 ```
+![Node.js CI](https://github.com/danielramosbh74/brazilian-banks-from-a-spreadsheet/workflows/Node.js%20CI/badge.svg)
 
 ## It was based on
 
