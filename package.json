@@ -1,5 +1,5 @@
 {
-  "name": "@danielramosbh74/Brazilian-banks-API",
+  "name": "brazilian-banks-from-a-spreadsheet",
   "version": "1.0.2",
   "description": "A public Google Spreadsheet generates a JSON response with Brazilian Banks",
   "main": "index.js",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/danielramosbh74/Brazilian-banks-API/issues"
   },
-  "homepage": "https://github.com/danielramosbh74/Brazilian-banks-API#readme"
+  "homepage": "https://github.com/danielramosbh74/Brazilian-banks-API#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }

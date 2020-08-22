@@ -20,3 +20,10 @@ const drive = require("drive-db"); //It could be     import drive from "drive-db
 
   console.log(records);
 })();
+
+// Testando a publicação de uma nova versão... só consegui publicar 2 vezes diretamente no site da NPM, mas ainda não consegui publicar nenhuma vez no Github packages... e tem um monte de melhorias a serem feitas...
+
+// Mesmo sem ter implementado novas melhorias mudarei para a versão 1.0.2 apenas porque preciso testar se vai publicar...
+
+// Inacreditável, mas acho que não estava sendo publicado apenas porque o NOME do arquivo do pacote dentro do package.json não estava minúsculo... perdi DIAS quebrando a cabeça com isso até que finalmente achei a solução... tudo fica simples depois de resolvido, rs, mas sozinho eu não ia imaginar que fosse apenas isso...
+
