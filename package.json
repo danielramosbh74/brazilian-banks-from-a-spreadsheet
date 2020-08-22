@@ -4,7 +4,7 @@
   "description": "A public Google Spreadsheet generates a JSON response with Brazilian Banks",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "bank-db",
@@ -15,7 +15,9 @@
   "dependencies": {
     "drive-db": "^6.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/danielramosbh74/Brazilian-banks-API.git"
